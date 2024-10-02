@@ -1,0 +1,6 @@
+.env
+dwug_*/
+dwug*
+outputs/
+__pycache__/
+inputs.data
