@@ -14,7 +14,6 @@ import pandas as pd
 from huggingface_hub import login
 
 
-login(token="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")
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO
 )
